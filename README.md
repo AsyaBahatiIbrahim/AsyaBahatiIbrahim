@@ -34,7 +34,7 @@ who can look at a problem and say:
 
 ---
 
-*still exploring · still learning · still very much in my EE era* ♡## Hi there 👋
+*still exploring · still learning · still very much in my EE era* ♡##
 
 <!--
 **AsyaBahatiIbrahim/AsyaBahatiIbrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
